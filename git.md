@@ -5,6 +5,11 @@
 - `git branch -d <branchname> -Delete branch
 - `git branch -a` - List both remote-tracking branches and local branches.
 
+## Checkout
+
+- `git checkout -b <newbranch>` - Specifying -b causes a new branch to be created 
+- `git checkout <newbranch>` - To prepare for working on <branch>, switch to it by updating the index and the files in the working tree, and by pointing HEAD at the branch
+
 ## Stash
 
 - `git stash` - Stash the changes in a dirty working directory away
