@@ -30,3 +30,9 @@ Vim is just a text editor
 
 - `:edit` - to reload the current file. 
 - `:edit!` - to force the reload of the current file (you will lose your modifications).
+
+## Word movement
+
+- `w` - moves to the start of next word
+- `e` - moves to end of next word
+- `b` - moves to beginning of the word
