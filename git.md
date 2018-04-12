@@ -1,3 +1,10 @@
+## Branch
+
+- `git branch <newbranch>` - Creata new branch
+- `git branch -d -r <branchname>` - Delete the remote-tracking. (The next fetch or pull will create them) 
+- `git branch -d <branchname> -Delete branch
+- `git branch -a` - List both remote-tracking branches and local branches.
+
 ## Stash
 
 - `git stash` - Stash the changes in a dirty working directory away
